@@ -51,6 +51,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 This project demonstrates how **Multiple Linear Regression** can help businesses optimize their marketing strategies by identifying the most effective promotion channels. The findings suggest that **TV and social media promotions** drive the most sales, while radio advertising may be less effective. These insights can guide future marketing budget allocations for improved revenue generation.
 
 ## 👨‍💻 Author
-[Niamatullah Habibi]  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/niamatullah-habibi)  
-🐙 GitHub: [Your GitHub](https://github.com/niamat-habibi)
+Niamatullah Habibi  
+🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/niamatullah-habibi)  
+🐙 GitHub: [My GitHub](https://github.com/niamat-habibi)
