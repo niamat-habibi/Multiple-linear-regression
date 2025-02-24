@@ -20,10 +20,10 @@ This project applies **Multiple Linear Regression (MLR)** to analyze a small bus
 7. 🎯 **Business Insights**: Interpreting model outputs and recommending marketing optimization strategies.
 
 ## 🔍 Results & Insights
-- ✅ The **Multiple Linear Regression** model showed a strong relationship between marketing spend and sales.
-- ✅ **Social media and TV promotions** had the highest impact on sales, while radio had minimal effect.
-- ✅ The model met key regression assumptions, with normally distributed residuals and no significant multicollinearity issues.
-- ✅ The findings suggest that the business should **prioritize social media and TV ads for higher ROI** while reconsidering spending on radio ads.
+- The **Multiple Linear Regression** model showed a strong relationship between marketing spend and sales.
+- **Social media and TV promotions** had the highest impact on sales, while radio had minimal effect.
+- The model met key regression assumptions, with normally distributed residuals and no significant multicollinearity issues.
+- The findings suggest that the business should **prioritize social media and TV ads for higher ROI** while reconsidering spending on radio ads.
 
 ## 🚀 How to Run the Notebook
 1. 📥 Clone this repository:
