@@ -28,7 +28,7 @@ This project applies **Multiple Linear Regression (MLR)** to analyze a small bus
 ## 🚀 How to Run the Notebook
 1. 📥 Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/multiple-linear-regression.git
+   git clone https://github.com/niamat-habibi/multiple-linear-regression.git
    cd multiple-linear-regression
    ```
 2. 📦 Install the required dependencies:
@@ -52,5 +52,5 @@ This project demonstrates how **Multiple Linear Regression** can help businesses
 
 ## 👨‍💻 Author
 [Niamatullah Habibi]  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/niamatullah-habibi)  
 🐙 GitHub: [Your GitHub](https://github.com/niamat-habibi)
